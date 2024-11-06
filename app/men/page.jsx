@@ -47,33 +47,28 @@ export const products = [
   {
     title: "Aceternity UI",
     link: "https://ui.aceternity.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/aceternityui.png",
+    thumbnail: "/hair/image3.jpg",
   },
   {
     title: "Tailwind Master Kit",
     link: "https://tailwindmasterkit.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/tailwindmasterkit.png",
+    thumbnail: "/hair/image4.jpg",
   },
   {
     title: "SmartBridge",
     link: "https://smartbridgetech.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/smartbridge.png",
+    thumbnail: "/hair/image5.jpg",
   },
   {
     title: "Renderwork Studio",
     link: "https://renderwork.studio",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/renderwork.png",
+    thumbnail: "/hair/image6.jpg",
   },
 
   {
     title: "Creme Digital",
     link: "https://cremedigital.com",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/cremedigital.png",
+    thumbnail: "/hair/image7.jpg",
   },
   {
     title: "Golden Bells Academy",

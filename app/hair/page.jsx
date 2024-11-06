@@ -31,7 +31,7 @@ export const products = [
   {
     title: "Editrix AI",
     link: "https://editrix.ai",
-    thumbnail: "/hair/image copy 24.png",
+    thumbnail: "/hair/image2.png",
   },
   {
     title: "Pixel Perfect",
